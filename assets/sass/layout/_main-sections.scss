@@ -3,42 +3,63 @@
 //Header
 .header_section {
     background-color: $jelly-bean;
-    padding: 10rem 1rem;
+    padding: 8rem 1rem;
     text-align: center;
 } 
 
 //section 2
 .section_2 {
     background-color: $granite-gray;
-    padding: 10rem 1rem;
+    padding: 8rem 1rem;
+    text-align: center;
+    color: $white;
 }
 
 //Section 3
 
-.section-3 {
+.section_3 {
     background-color: $white;
+    padding: 10rem 1rem;
+    text-align: center;
+    color: $granite-gray;
 }
 
 //Section 4
 
-.section-4 {
+.section_4 {
     background-color: $jelly-bean;
+    padding: 2rem 1rem;
+    text-align: center;
+    color: $white;
 }
 
 //Section 5
 
-.section-5 {
+.section_5 {
     background-color: $white;
+    padding: 8rem 1rem;
+    text-align: center;
+    color: $granite-gray;
 }
 
 //Section 6
 
-.section-6 {
-    background-color: $white;
+.section_6 {
+    background-color: $jelly-bean;
+    padding: 3rem 1rem;
+    text-align: center;
+    color: $white;
 }
 
-//Section 6
+// Alineacion 
 
-.footer {
-    background-color: $granite-gray;
+.left_p {
+    text-align: left;
+    max-width: 50vw;
+    margin: auto;
+}
+
+//padding bottom
+.p-bot {
+    padding-bottom: 3rem;
 }

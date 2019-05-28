@@ -1,0 +1,16 @@
+.button {
+    padding: 1rem 6rem;
+    color: $granite-gray;
+    background-color: $white;
+    text-decoration: none;
+    border-radius: 50px;
+    font-family: $raleway;
+    font-weight: $bold;
+    font-size: $medium;
+
+    &:hover {
+        background-color: $gray;
+        color: $jelly-bean;
+    }
+
+}
