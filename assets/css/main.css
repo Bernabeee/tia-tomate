@@ -117,10 +117,11 @@ p {
 .footer {
   background-color: #686963;
   text-align: center;
+  padding: 3rem 1rem;
 }
 
 .img-f {
-  width: 300px;
+  width: 200px;
 }
 
 .button {
@@ -132,6 +133,10 @@ p {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
+}
+.button:hover {
+  background-color: #fafafa;
+  color: #e56353;
 }
 
 /*# sourceMappingURL=main.css.map */
